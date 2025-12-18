@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj": {}
+    "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj": {}
   },
   "projects": {
-    "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj": {
+    "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj",
+        "projectUniqueName": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj",
         "projectName": "WebApplicationEremenko",
-        "projectPath": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj",
+        "projectPath": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\WebApplicationEremenko.csproj",
         "packagesPath": "D:\\Users\\eremenko.my2735\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\obj\\",
+        "outputPath": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"

@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\",
+  "WorkspaceRootPath": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\infrastructure\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\infrastructure\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\infrastructure\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\infrastructure\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\\u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\\u043E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\infrastructure\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\core\\dto\\customershortinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\core\\dto\\customershortinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\core\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\core\\dto\\customerstatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\source\\repos\\webapplicationeremenko\\webapplicationeremenko\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|d:\\users\\eremenko.my2735\\documents\\github\\eremenko3pk1api\\webapplicationeremenko\\webapplicationeremenko\\core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2C570B-FA0A-426A-8B19-1134AD6792D9}|WebApplicationEremenko\\WebApplicationEremenko.csproj|solutionrelative:webapplicationeremenko\\core\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,91 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\Infrastructure\\Data\\CustomerRepository.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\CustomerRepository.cs",
-              "RelativeToolTip": "WebApplicationEremenko\\Infrastructure\\Data\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CustomerShortInfoDto.cs",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\DTO\\CustomerShortInfoDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationEremenko\\Core\\DTO\\CustomerShortInfoDto.cs",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\DTO\\CustomerShortInfoDto.cs",
+              "RelativeToolTip": "WebApplicationEremenko\\Core\\DTO\\CustomerShortInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:09:17.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\Infrastructure\\Data\\OrderRepository.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\OrderRepository.cs",
-              "RelativeToolTip": "WebApplicationEremenko\\Infrastructure\\Data\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T06:08:52.182Z",
+              "WhenOpened": "2025-12-18T07:19:54.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\Models\\Product.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Models\\Product.cs",
-              "RelativeToolTip": "WebApplicationEremenko\\Models\\Product.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "CustomerStatsDto.cs",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\DTO\\CustomerStatsDto.cs",
+              "RelativeDocumentMoniker": "WebApplicationEremenko\\Core\\DTO\\CustomerStatsDto.cs",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\DTO\\CustomerStatsDto.cs",
+              "RelativeToolTip": "WebApplicationEremenko\\Core\\DTO\\CustomerStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:55:28.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\Infrastructure\\Data\\ProductRepository.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Infrastructure\\Data\\ProductRepository.cs",
-              "RelativeToolTip": "WebApplicationEremenko\\Infrastructure\\Data\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:54:51.84Z",
+              "WhenOpened": "2025-12-18T07:17:52.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApplicationEremenko\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WebApplicationEremenko\\Core\\Services\\ICustomerService.cs",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "WebApplicationEremenko\\Core\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T05:52:56.916Z"
+              "WhenOpened": "2025-12-18T07:10:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt",
+              "RelativeDocumentMoniker": "WebApplicationEremenko\\\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt",
+              "RelativeToolTip": "WebApplicationEremenko\\\u041E\u043F\u0438\u0441\u0430\u043D\u0438\u0435.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-18T07:08:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "WebApplicationEremenko\\Core\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Core\\Services\\CustomerService.cs",
+              "RelativeToolTip": "WebApplicationEremenko\\Core\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:07:45.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Program.cs",
+              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationEremenko\\Program.cs",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\Program.cs",
+              "ToolTip": "D:\\Users\\eremenko.my2735\\Documents\\GitHub\\Eremenko3pk1API\\WebApplicationEremenko\\WebApplicationEremenko\\Program.cs",
               "RelativeToolTip": "WebApplicationEremenko\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T05:49:39.057Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplicationEremenko\\appsettings.json",
-              "ToolTip": "D:\\Users\\eremenko.my2735\\source\\repos\\WebApplicationEremenko\\WebApplicationEremenko\\appsettings.json",
-              "RelativeToolTip": "WebApplicationEremenko\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-15T05:47:19.187Z"
             }
           ]
         }

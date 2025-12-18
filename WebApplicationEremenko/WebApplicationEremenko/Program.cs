@@ -1,9 +1,13 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using WebApplicationEremenko.Data;
+using Microsoft.Extensions.Options;
 using WebApplicationEremenko.Core.Interfaces;
+using WebApplicationEremenko.Core.Services;
+using WebApplicationEremenko.Data;
 using WebApplicationEremenko.Infrastructure.Data;
+using WebApplicationEremenko.Models;
 
-namespace WebApplication2
+namespace WebApplicationEremenko
 {
     public class Program
     {
@@ -20,13 +24,20 @@ namespace WebApplication2
             options.UseNpgsql(builder.Configuration.GetConnectionString("PostgreConnection")));
 
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
             builder.Services.AddScoped<IPharmacyRepository, PharmacyRepository>();
+
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+
             builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 
+            builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
 
-            //options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
+
+            //options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 
             var app = builder.Build();
 
@@ -40,7 +51,6 @@ namespace WebApplication2
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 
