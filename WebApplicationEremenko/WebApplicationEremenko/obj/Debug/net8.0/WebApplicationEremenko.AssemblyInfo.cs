@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationEremenko")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5131ab59da46a79d235cf39c8447d448808e29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b78678688f11daf3e2069d1924750dfe4540edcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationEremenko")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationEremenko")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -94,7 +94,42 @@ namespace WebApplicationEremenko.Core.Mapping
                 .ForMember(dest => dest.Role,
                     opt => opt.MapFrom(_ => "Customer"))
                 .ForMember(dest => dest.PasswordHash,
-                    opt => opt.Ignore()); 
+                    opt => opt.Ignore());
+
+            /// <summary>
+            /// Маппинг для CustomerProfile в CustomerShortInfoDto
+            /// </summary>
+        //    CreateMap<CustomerProfile, CustomerShortInfoDto>()
+        //        .ForMember(dest => dest.Email,
+        //            opt => opt.MapFrom(src => src.User.Email))
+        //        .ForMember(dest => dest.PhoneNumber,
+        //            opt => opt.MapFrom(src => src.User.PhoneNumber))
+        //        .ForMember(dest => dest.City,
+        //            opt => opt.MapFrom(src => ExtractCityFromAddress(src.Address)))
+        //        .ForMember(dest => dest.IsActive,
+        //            opt => opt.MapFrom(src => src.User.Email.Contains("deleted_") == false))
+        //        .ForMember(dest => dest.TotalOrders,
+        //            opt => opt.MapFrom(src => src.Orders.Count))
+        //        .ForMember(dest => dest.TotalSpent,
+        //            opt => opt.MapFrom(src => CalculateTotalSpent(src)))
+        //        .ForMember(dest => dest.LastOrderDate,
+        //            opt => opt.MapFrom(src => src.Orders.Any()
+        //                ? src.Orders.Max(o => o.CreatedAt)
+        //                : (DateTime?)null))
+        //        .ForMember(dest => dest.RegistrationDate,
+        //            opt => opt.MapFrom(src => src.User.CreatedAt))
+        //        .ForMember(dest => dest.MedicalCardNumber,
+        //            opt => opt.MapFrom(src => src.MedicalCardNumber))
+        //        .ForMember(dest => dest.Rating,
+        //            opt => opt.MapFrom(src => CalculateCustomerRating(src)))
+        //        .ForMember(dest => dest.CancelledOrdersCount,
+        //            opt => opt.MapFrom(src => src.Orders.Count(o => o.Status == "Cancelled")))
+        //        .ForMember(dest => dest.FavoriteCategories,
+        //            opt => opt.MapFrom(src => GetFavoriteCategories(src)))
+        //        .ForMember(dest => dest.LastDeliveryAddress,
+        //            opt => opt.MapFrom(src => src.Orders
+        //                .OrderByDescending(o => o.CreatedAt)
+        //                .FirstOrDefault()?.DeliveryAddress));
         }
     }
 }

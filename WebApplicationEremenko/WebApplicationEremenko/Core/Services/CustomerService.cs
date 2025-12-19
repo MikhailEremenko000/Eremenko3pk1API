@@ -133,7 +133,7 @@ public class CustomerService : ICustomerService
     }
 
     /// <summary>
-    /// Удалить клиента (мягкое удаление с деактивацией аккаунта)
+    /// Удалить клиента
     /// </summary>
     public async Task<bool> DeleteCustomerAsync(int id)
     {

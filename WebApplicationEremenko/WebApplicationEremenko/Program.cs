@@ -11,9 +11,11 @@ namespace WebApplicationEremenko
 {
     public class Program
     {
+
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            ApplicationDbContext dbuserManager;
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -37,7 +39,7 @@ namespace WebApplicationEremenko
 
             builder.Services.AddScoped<ICustomerService, CustomerService>();
 
-            //options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+            //options.UseDefaultServiceProvider(builder.Configuration.GetConnectionString("DefaultConnection"));
 
             var app = builder.Build();
 
